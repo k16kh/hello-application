@@ -1,7 +1,7 @@
 {
   "name": "hello-world-app",
   "version": "1.0.0",
-  "description": "A simple Hello World app for testing CI/CD",
+  "description": "A simple Hello World app",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
