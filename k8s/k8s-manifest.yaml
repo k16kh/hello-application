@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: hello-application
-        image: ikbelkhemiri/helloapplicatio:latest
+        image: ikbelkhemiri/helloapplication:latest
         ports:
         - containerPort: 3000
 ---
